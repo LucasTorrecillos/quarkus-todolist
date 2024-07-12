@@ -1,4 +1,4 @@
-package org.corpauration;
+package org.corpauration.test;
 
 import io.quarkus.hibernate.reactive.panache.PanacheEntity;
 import jakarta.persistence.Entity;
